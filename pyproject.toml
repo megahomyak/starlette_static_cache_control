@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-starlette = "^0.37.1"
+starlette = ">=0.13.8"
 
 
 [build-system]
